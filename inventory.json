@@ -1,0 +1,191 @@
+[
+    {
+        "stock_id": "fads78451254",
+        "sku": "504628957433",
+        "family": "Bears",
+        "stock": 60,
+        "repairable": true,
+        "Name": "Cuddle Bear",
+        "cost": 10
+    },
+    {
+        "stock_id": "fads7848564",
+        "sku": "874352065266",
+        "family": "Bears",
+        "stock": 84,
+        "repairable": true,
+        "Name": "Accountant Bear",
+        "cost": 10
+    },
+    {
+        "stock_id": "fads7844124",
+        "sku": "465130982352",
+        "family": "Bears",
+        "stock": 21,
+        "repairable": true,
+        "Name": "Canbeara",
+        "cost": 5
+    },
+    {
+        "stock_id": "fads7474124",
+        "sku": "745212089765",
+        "family": "Bears",
+        "stock": 12,
+        "repairable": true,
+        "Name": "Pizza Bear",
+        "cost": 20
+    },
+    {
+        "stock_id": "fads874924",
+        "sku": "486521388470",
+        "family": "Bears",
+        "stock": 5,
+        "repairable": false,
+        "Name": "Just a Bear",
+        "cost": 50
+    },
+    {
+        "stock_id": "fads874924",
+        "sku": "484859630625",
+        "family": "Bears",
+        "stock": 1,
+        "repairable": false,
+        "Name": "Reggie the Dog",
+        "cost": 25
+    },
+    {
+        "stock_id": "fasq6135748",
+        "sku": "485462332198",
+        "family": "Bears",
+        "stock": 8,
+        "repairable": true,
+        "Name": "DeveloBear",
+        "cost": 12
+    },
+    {
+        "stock_id": "fasq41148",
+        "sku": "786532108696",
+        "family": "Bears",
+        "stock": 12,
+        "repairable": true,
+        "Name": "BA Bear",
+        "cost": 10
+    },
+    {
+        "stock_id": "fasq411248",
+        "sku": "230069580325",
+        "family": "Accessories",
+        "stock": 200,
+        "repairable": true,
+        "Name": "Blue Beary Pie",
+        "cost": 1
+    },
+    {
+        "stock_id": "fasq8473148",
+        "sku": "865432105584",
+        "family": "Accessories",
+        "stock": 150,
+        "repairable": true,
+        "Name": "Pizza",
+        "cost": 2
+    },
+    {
+        "stock_id": "fasq8ad448",
+        "sku": "549106637244",
+        "family": "Accessories",
+        "stock": 94,
+        "repairable": true,
+        "Name": "Owl Painting",
+        "cost": 3
+    },
+    {
+        "stock_id": "fasq132ad448",
+        "sku": "852169750321",
+        "family": "Accessories",
+        "stock": 37,
+        "repairable": true,
+        "Name": "Calcula-Bear",
+        "cost": 3
+    },
+    {
+        "stock_id": "fasqa2ad448",
+        "sku": "623179485507",
+        "family": "Accessories",
+        "stock": 63,
+        "repairable": true,
+        "Name": "Honey Jar",
+        "cost": 1
+    },
+    {
+        "stock_id": "posd47521",
+        "sku": "796413285671",
+        "family": "Accessories",
+        "stock": 63,
+        "repairable": true,
+        "Name": "Nurse Kit",
+        "cost": 5
+    },
+    {
+        "stock_id": "asdac1136554",
+        "sku": "006794190873",
+        "family": "Accessories",
+        "stock": 126,
+        "repairable": false,
+        "Name": "Mekitsa",
+        "cost": 1
+    },
+    {
+        "stock_id": "mcvao451210",
+        "sku": "798451619878",
+        "family": "Accessories",
+        "stock": 355,
+        "repairable": false,
+        "Name": "Water Bottle",
+        "cost": 1
+    },
+    {
+        "stock_id": "mcvao45adas10",
+        "sku": "146897121354",
+        "family": "Accessories",
+        "stock": 1205,
+        "repairable": false,
+        "Name": "Coffee Mug",
+        "cost": 2
+    },
+    {
+        "stock_id": "mcvaasdac70",
+        "sku": "649778451539",
+        "family": "Accessories",
+        "stock": 854,
+        "repairable": false,
+        "Name": "ReceiptBank Subscription",
+        "cost": 2
+    },
+    {
+        "stock_id": "qewd45100",
+        "sku": "495186243030",
+        "family": "Accessories",
+        "stock": 10,
+        "repairable": false,
+        "Name": "Receipt Bank Jacket",
+        "cost": 6
+    },
+    {
+        "stock_id": "fdsdfsas888",
+        "sku": "958411125449",
+        "family": "Accessories",
+        "stock": 600,
+        "repairable": false,
+        "Name": "Zoom Background Set",
+        "cost": 4
+    },
+    {
+        "stock_id": "wgfrsd6589",
+        "sku": "086543659787",
+        "family": "Accessories",
+        "stock": 20,
+        "repairable": false,
+        "Name": "Pizza Cutter",
+        "cost": 4
+    }
+]
